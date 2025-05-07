@@ -1,0 +1,1 @@
+This task demonstrates how to build a Docker image that runs a simple Flask web server. The Dockerfile installs Python3, pip3, and Flask, and sets up an API endpoint that returns “Hello, World!” when accessed. The Flask app listens on port 5252 and is accessible from outside the container using host 0.0.0.0.

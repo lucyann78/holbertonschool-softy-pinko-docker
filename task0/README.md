@@ -1,0 +1,1 @@
+This task involves creating a simple Docker image using a Dockerfile based on the latest Ubuntu. The image updates and upgrades system packages, then outputs “Hello, World!” when run in a container. It demonstrates the basics of building and running a custom Docker image from scratch.
